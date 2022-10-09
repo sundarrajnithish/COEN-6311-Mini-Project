@@ -1,0 +1,398 @@
+INFO:root:Accessed Family Wallet 2022-10-08 11:13:36.860465
+INFO:root:Accessed Family Wallet 2022-10-08 11:17:12.661969
+INFO:root:dad Deposit 100 2022-10-08 11:17:12.661969
+INFO:root:dad Withdraw 70 2022-10-08 11:17:12.661969
+INFO:root:Wallet accessed by a family member 2022-10-08 11:45:11.812931
+INFO:root:dad's deposit for $100 accepted 2022-10-08 11:45:11.812931
+INFO:root:dad Withdraw 70 2022-10-08 11:45:11.812931
+INFO:root:Wallet accessed by a family member 2022-10-08 11:45:22.544467
+INFO:root:dad's deposit for $100 accepted 2022-10-08 11:45:22.544467
+INFO:root:dad Withdraw 70 2022-10-08 11:45:22.544467
+INFO:root:Wallet accessed by a family member 2022-10-08 11:45:52.454869
+INFO:root:dad's deposit for $100 accepted 2022-10-08 11:45:52.454869
+INFO:root:dad Withdraw 70 2022-10-08 11:45:52.454869
+INFO:root:Wallet accessed by a family member 2022-10-08 11:53:41.312402
+INFO:root:dad's deposit for $100 accepted 2022-10-08 11:53:41.312402
+INFO:root:dad Withdraw 70 2022-10-08 11:53:41.312402
+INFO:root:Wallet accessed by a family member 2022-10-08 11:54:25.407209
+INFO:root:dad's deposit for $100 accepted 2022-10-08 11:54:25.407209
+INFO:root:dad Withdraw 70 2022-10-08 11:54:25.407209
+INFO:root:Wallet accessed by a family member 2022-10-08 11:55:00.372848
+INFO:root:dad's deposit for $100 accepted 2022-10-08 11:55:00.372848
+INFO:root:dad Withdraw 70 2022-10-08 11:55:00.372848
+INFO:root:Wallet accessed by a family member 2022-10-08 11:55:33.532223
+INFO:root:dad's deposit for $100 accepted 2022-10-08 11:55:33.532223
+INFO:root:dad Withdraw 70 2022-10-08 11:55:33.532223
+INFO:root:Wallet accessed by a family member 2022-10-08 11:56:15.071789
+INFO:root:dad's deposit for $100 accepted 2022-10-08 11:56:15.071789
+INFO:root:dad Withdraw 70 2022-10-08 11:56:15.071789
+INFO:root:Wallet accessed by a family member 2022-10-08 11:59:35.964044
+INFO:root:dad's deposit for $100 accepted 2022-10-08 11:59:35.964044
+INFO:root:dad Withdraw 70 2022-10-08 11:59:35.964044
+INFO:root:Wallet accessed by a family member 2022-10-08 12:31:33.561101
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:31:33.561101
+INFO:root:dad Withdraw 70 2022-10-08 12:31:33.561101
+INFO:root:Wallet accessed by a family member 2022-10-08 12:32:01.632874
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:32:01.632874
+INFO:root:dad Withdraw 70 2022-10-08 12:32:01.632874
+INFO:root:Wallet accessed by a family member 2022-10-08 12:33:34.586162
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:33:34.586162
+INFO:root:dad Withdraw 70 2022-10-08 12:33:34.586162
+INFO:root:Wallet accessed by a family member 2022-10-08 12:35:17.045534
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:35:17.045534
+INFO:root:dad Withdraw 70 2022-10-08 12:35:17.045534
+INFO:root:Wallet accessed by a family member 2022-10-08 12:36:06.881396
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:36:06.881396
+INFO:root:dad Withdraw 70 2022-10-08 12:36:06.881396
+INFO:root:Wallet accessed by a family member 2022-10-08 12:36:32.430634
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:36:32.430634
+INFO:root:dad Withdraw 70 2022-10-08 12:36:32.430634
+INFO:root:Wallet accessed by a family member 2022-10-08 12:37:20.418687
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:37:20.418687
+INFO:root:dad Withdraw 70 2022-10-08 12:37:20.418687
+INFO:root:Wallet accessed by a family member 2022-10-08 12:38:57.631102
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:38:57.631102
+INFO:root:dad Withdraw 70 2022-10-08 12:38:57.631102
+INFO:root:Wallet accessed by a family member 2022-10-08 12:43:02.943348
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:43:02.943348
+INFO:root:dad Withdraw 70 2022-10-08 12:43:02.943348
+INFO:root:Wallet accessed by a family member 2022-10-08 12:44:00.403125
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:44:00.403125
+INFO:root:dad Withdraw 70 2022-10-08 12:44:00.403125
+INFO:root:Wallet accessed by a family member 2022-10-08 12:45:01.185811
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:45:01.185811
+INFO:root:dad Withdraw 70 2022-10-08 12:45:01.185811
+INFO:root:Wallet accessed by a family member 2022-10-08 12:50:43.484346
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:50:43.484346
+INFO:root:dad Withdraw 70 2022-10-08 12:50:43.484346
+INFO:root:Wallet accessed by a family member 2022-10-08 12:51:02.713262
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:51:02.713262
+INFO:root:dad Withdraw 70 2022-10-08 12:51:02.713262
+INFO:root:Wallet accessed by a family member 2022-10-08 12:51:35.539769
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:51:35.539769
+INFO:root:dad Withdraw 70 2022-10-08 12:51:35.539769
+INFO:root:Wallet accessed by a family member 2022-10-08 12:52:40.315025
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:52:40.315025
+INFO:root:dad Withdraw 70 2022-10-08 12:52:40.315025
+INFO:root:Wallet accessed by a family member 2022-10-08 12:52:41.696012
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:52:41.696012
+INFO:root:dad Withdraw 70 2022-10-08 12:52:41.696012
+INFO:root:Wallet accessed by a family member 2022-10-08 12:53:17.450025
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:53:17.450025
+INFO:root:dad Withdraw 70 2022-10-08 12:53:17.450025
+INFO:root:Wallet accessed by a family member 2022-10-08 12:53:56.762883
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:53:56.762883
+INFO:root:dad Withdraw 70 2022-10-08 12:53:56.762883
+INFO:root:Wallet accessed by a family member 2022-10-08 12:53:58.528474
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:53:58.528474
+INFO:root:dad Withdraw 70 2022-10-08 12:53:58.528474
+INFO:root:Wallet accessed by a family member 2022-10-08 12:57:12.087994
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:57:12.087994
+INFO:root:dad Withdraw 70 2022-10-08 12:57:12.087994
+INFO:root:Wallet accessed by a family member 2022-10-08 12:57:40.981097
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:57:40.981097
+INFO:root:dad Withdraw 70 2022-10-08 12:57:40.981097
+INFO:root:Wallet accessed by a family member 2022-10-08 12:57:52.097253
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:57:52.097253
+INFO:root:dad Withdraw 70 2022-10-08 12:57:52.097253
+INFO:root:Wallet accessed by a family member 2022-10-08 12:57:53.701234
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:57:53.701234
+INFO:root:dad Withdraw 70 2022-10-08 12:57:53.701234
+INFO:root:Wallet accessed by a family member 2022-10-08 12:58:32.357824
+INFO:root:dad's deposit for $100 accepted 2022-10-08 12:58:32.357824
+INFO:root:dad Withdraw 70 2022-10-08 12:58:32.357824
+INFO:root:Wallet accessed by a family member 2022-10-08 13:00:03.416765
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:00:03.416765
+INFO:root:dad Withdraw 70 2022-10-08 13:00:03.416765
+INFO:root:Wallet accessed by a family member 2022-10-08 13:00:06.137900
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:00:06.137900
+INFO:root:dad Withdraw 70 2022-10-08 13:00:06.137900
+INFO:root:Wallet accessed by a family member 2022-10-08 13:00:17.253912
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:00:17.253912
+INFO:root:dad Withdraw 70 2022-10-08 13:00:17.253912
+INFO:root:Wallet accessed by a family member 2022-10-08 13:01:19.359661
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:01:19.359661
+INFO:root:dad Withdraw 70 2022-10-08 13:01:19.359661
+INFO:root:Wallet accessed by a family member 2022-10-08 13:01:22.402846
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:01:22.402846
+INFO:root:dad Withdraw 70 2022-10-08 13:01:22.402846
+INFO:root:Wallet accessed by a family member 2022-10-08 13:01:32.470481
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:01:32.470481
+INFO:root:dad Withdraw 70 2022-10-08 13:01:32.470481
+INFO:root:Wallet accessed by a family member 2022-10-08 13:01:33.614354
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:01:33.614354
+INFO:root:dad Withdraw 70 2022-10-08 13:01:33.614354
+INFO:root:Wallet accessed by a family member 2022-10-08 13:01:35.325015
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:01:35.325015
+INFO:root:dad Withdraw 70 2022-10-08 13:01:35.325015
+INFO:root:Wallet accessed by a family member 2022-10-08 13:01:36.186572
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:01:36.186572
+INFO:root:dad Withdraw 70 2022-10-08 13:01:36.186572
+INFO:root:Wallet accessed by a family member 2022-10-08 13:01:39.112041
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:01:39.112041
+INFO:root:dad Withdraw 70 2022-10-08 13:01:39.112041
+INFO:root:Wallet accessed by a family member 2022-10-08 13:02:06.573308
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:02:06.573308
+INFO:root:dad Withdraw 70 2022-10-08 13:02:06.573308
+INFO:root:Wallet accessed by a family member 2022-10-08 13:02:07.627330
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:02:07.627330
+INFO:root:dad Withdraw 70 2022-10-08 13:02:07.627330
+INFO:root:Wallet accessed by a family member 2022-10-08 13:03:19.616364
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:03:19.616364
+INFO:root:dad Withdraw 70 2022-10-08 13:03:19.616364
+INFO:root:Wallet accessed by a family member 2022-10-08 13:04:58.417032
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:04:58.417032
+INFO:root:dad Withdraw 70 2022-10-08 13:04:58.417032
+INFO:root:Wallet accessed by a family member 2022-10-08 13:05:05.882228
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:05:05.882228
+INFO:root:dad Withdraw 70 2022-10-08 13:05:05.882228
+INFO:root:Wallet accessed by a family member 2022-10-08 13:05:07.304690
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:05:07.304690
+INFO:root:dad Withdraw 70 2022-10-08 13:05:07.304690
+INFO:root:Wallet accessed by a family member 2022-10-08 13:06:03.782752
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:06:03.782752
+INFO:root:dad Withdraw 70 2022-10-08 13:06:03.782752
+INFO:root:Wallet accessed by a family member 2022-10-08 13:06:17.939706
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:06:17.939706
+INFO:root:dad Withdraw 70 2022-10-08 13:06:17.939706
+INFO:root:Wallet accessed by a family member 2022-10-08 13:06:19.228667
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:06:19.228667
+INFO:root:dad Withdraw 70 2022-10-08 13:06:19.228667
+INFO:root:Wallet accessed by a family member 2022-10-08 13:06:20.080845
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:06:20.080845
+INFO:root:dad Withdraw 70 2022-10-08 13:06:20.080845
+INFO:root:Wallet accessed by a family member 2022-10-08 13:06:20.749759
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:06:20.749759
+INFO:root:dad Withdraw 70 2022-10-08 13:06:20.749759
+INFO:root:Wallet accessed by a family member 2022-10-08 13:15:43.176454
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:15:43.176454
+INFO:root:dad Withdraw 70 2022-10-08 13:15:43.176454
+INFO:root:Wallet accessed by a family member 2022-10-08 13:15:52.320873
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:15:52.320873
+INFO:root:dad Withdraw 70 2022-10-08 13:15:52.320873
+INFO:root:Wallet accessed by a family member 2022-10-08 13:15:58.730870
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:15:58.730870
+INFO:root:dad Withdraw 70 2022-10-08 13:15:58.730870
+INFO:root:Wallet accessed by a family member 2022-10-08 13:18:23.106667
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:18:23.106667
+INFO:root:dad Withdraw 70 2022-10-08 13:18:23.106667
+INFO:root:Wallet accessed by a family member 2022-10-08 13:18:44.988938
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:18:44.988938
+INFO:root:dad Withdraw 70 2022-10-08 13:18:44.988938
+INFO:root:Wallet accessed by a family member 2022-10-08 13:18:46.417105
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:18:46.417105
+INFO:root:dad Withdraw 70 2022-10-08 13:18:46.417105
+INFO:root:Wallet accessed by a family member 2022-10-08 13:19:09.381548
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:19:09.381548
+INFO:root:dad Withdraw 70 2022-10-08 13:19:09.381548
+INFO:root:Wallet accessed by a family member 2022-10-08 13:19:10.753390
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:19:10.753390
+INFO:root:dad Withdraw 70 2022-10-08 13:19:10.753390
+INFO:root:Wallet accessed by a family member 2022-10-08 13:19:28.099337
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:19:28.099337
+INFO:root:dad Withdraw 70 2022-10-08 13:19:28.099337
+INFO:root:Wallet accessed by a family member 2022-10-08 13:19:29.363059
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:19:29.363059
+INFO:root:dad Withdraw 70 2022-10-08 13:19:29.363059
+INFO:root:Wallet accessed by a family member 2022-10-08 13:19:30.014715
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:19:30.014715
+INFO:root:dad Withdraw 70 2022-10-08 13:19:30.014715
+INFO:root:Wallet accessed by a family member 2022-10-08 13:19:59.537948
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:19:59.537948
+INFO:root:dad Withdraw 70 2022-10-08 13:19:59.537948
+INFO:root:Wallet accessed by a family member 2022-10-08 13:20:01.137924
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:20:01.137924
+INFO:root:dad Withdraw 70 2022-10-08 13:20:01.137924
+INFO:root:Wallet accessed by a family member 2022-10-08 13:20:14.143794
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:20:14.143794
+INFO:root:dad Withdraw 70 2022-10-08 13:20:14.143794
+INFO:root:Wallet accessed by a family member 2022-10-08 13:20:23.176615
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:20:23.176615
+INFO:root:dad Withdraw 70 2022-10-08 13:20:23.176615
+INFO:root:Wallet accessed by a family member 2022-10-08 13:20:26.715441
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:20:26.715441
+INFO:root:dad Withdraw 70 2022-10-08 13:20:26.715441
+INFO:root:Wallet accessed by a family member 2022-10-08 13:23:28.537529
+INFO:root:Wallet accessed by a family member 2022-10-08 13:23:42.778196
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:23:42.778196
+INFO:root:Wallet accessed by a family member 2022-10-08 13:25:57.592887
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:25:57.592887
+INFO:root:Wallet accessed by a family member 2022-10-08 13:26:26.587318
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:26:26.587318
+INFO:root:Wallet accessed by a family member 2022-10-08 13:26:49.483225
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:26:49.483225
+INFO:root:Wallet accessed by a family member 2022-10-08 13:28:00.180811
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:28:00.180811
+INFO:root:Wallet accessed by a family member 2022-10-08 13:28:11.330299
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:28:11.330299
+INFO:root:Wallet accessed by a family member 2022-10-08 13:28:21.032703
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:28:21.032703
+INFO:root:Wallet accessed by a family member 2022-10-08 13:28:32.267015
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:28:32.267015
+INFO:root:Wallet accessed by a family member 2022-10-08 13:29:14.443768
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:29:14.443768
+INFO:root:Wallet accessed by a family member 2022-10-08 13:29:15.428686
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:29:15.428686
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:32:48.970216
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:32:48.970216
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:33:19.242813
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:33:19.242813
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:36:07.332057
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:36:07.332057
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:36:17.164167
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:36:17.164167
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:36:29.979467
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:36:29.979467
+INFO:root:Wallet tried to access by nabeel 2022-10-08 13:37:21.743415
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:37:21.743415
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:37:21.743415
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:37:21.743415
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:37:21.743415
+INFO:root:Wallet tried to access by nabeel 2022-10-08 13:37:41.107577
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:37:41.107577
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:37:41.107577
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:37:41.107577
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:37:41.107577
+INFO:root:Wallet tried to access by nabeel 2022-10-08 13:38:10.158454
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:38:10.158454
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:38:10.158454
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:38:10.158454
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:38:10.158454
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:38:10.158454
+INFO:root:Wallet tried to access by nabeel 2022-10-08 13:38:20.168471
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:38:20.168471
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:38:20.168471
+INFO:root:Wallet tried to access by nabeel 2022-10-08 13:39:25.726166
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:39:25.726166
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:39:25.726166
+INFO:root:Wallet tried to access by nabeel 2022-10-08 13:42:10.511837
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:42:10.511837
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:42:10.511837
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:42:10.511837
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:42:10.511837
+INFO:root:Wallet tried to access by nabeel 2022-10-08 13:43:51.368159
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:43:51.368159
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:43:51.368159
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:43:51.368159
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:43:51.368159
+INFO:root:Wallet tried to access by nabeel 2022-10-08 13:44:21.884307
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:44:21.884307
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:44:21.884307
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:44:21.884307
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:44:21.884307
+INFO:root:Wallet tried to access by nabeel 2022-10-08 13:45:06.319926
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:45:06.319926
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:45:06.319926
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:45:06.319926
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:45:06.319926
+INFO:root:Wallet tried to access by nabeel 2022-10-08 13:45:21.742611
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:45:21.742611
+INFO:root:Wallet tried to access by nabeel 2022-10-08 13:55:58.697516
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:55:58.697516
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:55:58.697516
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:55:58.697516
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:55:58.697516
+INFO:root:Wallet tried to access by nabeel 2022-10-08 13:58:08.404573
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:58:08.404573
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:58:08.404573
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:58:08.404573
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:58:08.404573
+INFO:root:Wallet tried to access by nabeel 2022-10-08 13:58:11.220542
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:58:11.220542
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:58:11.220542
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:58:11.220542
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:58:11.220542
+INFO:root:Wallet tried to access by nabeel 2022-10-08 13:59:00.740228
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:59:00.740228
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:59:00.740228
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:59:00.740228
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:59:00.740228
+INFO:root:Wallet tried to access by nabeel 2022-10-08 13:59:03.239645
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:59:03.239645
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:59:03.239645
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:59:03.239645
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:59:03.239645
+INFO:root:Wallet tried to access by nabeel 2022-10-08 13:59:15.623719
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:59:15.623719
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:59:15.623719
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:59:15.623719
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:59:15.623719
+INFO:root:Wallet tried to access by nabeel 2022-10-08 13:59:25.745670
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:59:25.745670
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:59:25.745670
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:59:25.745670
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:59:25.745670
+INFO:root:Wallet tried to access by nabeel 2022-10-08 13:59:26.715985
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:59:26.715985
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:59:26.715985
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:59:26.715985
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:59:26.715985
+INFO:root:Wallet tried to access by nabeel 2022-10-08 13:59:47.188965
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:59:47.188965
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:59:47.188965
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:59:47.188965
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:59:47.188965
+INFO:root:Wallet tried to access by nabeel 2022-10-08 13:59:54.413887
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:59:54.413887
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:59:54.413887
+INFO:root:Wallet accessed by nabeel 2022-10-08 13:59:54.413887
+INFO:root:dad's deposit for $100 accepted 2022-10-08 13:59:54.413887
+INFO:root:Wallet tried to access by nabeel 2022-10-08 14:00:14.520268
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:00:14.520268
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:00:14.520268
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:00:14.520268
+INFO:root:dad's deposit for $100 accepted 2022-10-08 14:00:14.520268
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:00:16.247104
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:00:16.247104
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:00:16.247104
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:00:17.670686
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:00:17.670686
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:00:17.670686
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:01:12.574549
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:01:12.574549
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:01:12.574549
+INFO:root:dad's deposit for $100 accepted 2022-10-08 14:01:12.574549
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:01:25.167103
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:01:25.167103
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:01:25.167103
+INFO:root:dad's deposit for $100 accepted 2022-10-08 14:01:25.167103
+INFO:root:Wallet tried to access by nabeel 2022-10-08 14:02:07.960178
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:02:07.960178
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:02:07.960178
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:02:07.960178
+INFO:root:dad's deposit for $100 accepted 2022-10-08 14:02:07.960178
+INFO:root:Wallet tried to access by nabeel 2022-10-08 14:02:26.134924
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:02:26.134924
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:02:26.134924
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:02:26.134924
+INFO:root:dad's deposit for $100 accepted 2022-10-08 14:02:26.134924
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:02:34.848126
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:02:34.848126
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:02:34.848126
+INFO:root:dad's deposit for $100 accepted 2022-10-08 14:02:34.848126
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:02:55.308843
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:02:55.308843
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:02:55.308843
+INFO:root:dad's deposit for $100 accepted 2022-10-08 14:02:55.308843
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:06:17.750984
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:06:17.750984
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:06:17.750984
+INFO:root:dad's deposit for $100 accepted 2022-10-08 14:06:17.750984
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:08:01.331827
+INFO:root:dad's deposit for $100 accepted 2022-10-08 14:08:01.331827
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:09:17.781244
+INFO:root:dad's deposit for $100 accepted 2022-10-08 14:09:17.781244
+INFO:root:Wallet accessed by nabeel 2022-10-08 14:09:28.950654
+INFO:root:dad's deposit for $100 accepted 2022-10-08 14:09:28.950654
+INFO:root:Wallet tried to access by nabeel 2022-10-08 14:09:31.749575
+INFO:root:Wallet accessed by kid 2022-10-09 13:01:35.090432
+INFO:root:Wallet tried to access by kulo 2022-10-09 13:04:27.708763
+INFO:root:Wallet tried to access by kulo 2022-10-09 13:04:35.478578
+INFO:root:Wallet tried to access by kulo 2022-10-09 13:05:25.194739
+INFO:root:Wallet accessed by kulo 2022-10-09 13:05:25.194739
+INFO:root:Wallet tried to access by kulo 2022-10-09 13:06:56.640448
+INFO:root:Wallet accessed by kulo 2022-10-09 13:06:56.640448
+INFO:root:Wallet tried to access by kulo 2022-10-09 13:07:03.760045
+INFO:root:Wallet accessed by kulo 2022-10-09 13:07:03.760045
+INFO:root:Wallet tried to access by kulo 2022-10-09 13:09:24.774917
+INFO:root:Wallet accessed by kulo 2022-10-09 13:09:24.774917
