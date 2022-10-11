@@ -396,3 +396,100 @@ INFO:root:Wallet tried to access by kulo 2022-10-09 13:07:03.760045
 INFO:root:Wallet accessed by kulo 2022-10-09 13:07:03.760045
 INFO:root:Wallet tried to access by kulo 2022-10-09 13:09:24.774917
 INFO:root:Wallet accessed by kulo 2022-10-09 13:09:24.774917
+INFO:root:Wallet tried to access by kulo 2022-10-09 18:37:39.283430
+INFO:root:Wallet accessed by kulo 2022-10-09 18:37:39.283430
+INFO:root:Wallet accessed by mom 2022-10-09 20:09:55.703283
+INFO:root:Wallet accessed by dad 2022-10-09 21:25:06.076835
+INFO:root:Wallet accessed by dad 2022-10-09 21:26:20.403570
+INFO:root:Wallet accessed by dad 2022-10-09 21:26:20.403570
+INFO:root:Wallet accessed by mom 2022-10-09 22:29:58.657740
+INFO:root:Wallet accessed by dad 2022-10-09 22:31:16.267164
+INFO:root:Wallet accessed by dad 2022-10-09 22:31:16.267164
+INFO:root:Wallet accessed by dad 2022-10-09 22:31:16.267164
+INFO:root:Wallet accessed by dad 2022-10-09 22:32:06.525558
+INFO:root:Wallet accessed by dad 2022-10-09 22:32:06.525558
+INFO:root:Wallet accessed by dad 2022-10-09 22:32:06.525558
+INFO:root:Wallet accessed by dad 2022-10-09 22:34:36.792148
+INFO:root:Wallet accessed by dad 2022-10-09 22:34:59.581243
+INFO:root:Wallet accessed by dad 2022-10-09 22:34:59.581243
+INFO:root:Wallet accessed by dad 2022-10-09 22:34:59.581243
+INFO:root:Wallet accessed by mom 2022-10-09 22:34:59.581243
+INFO:root:Wallet accessed by mom 2022-10-09 22:37:55.347267
+INFO:root:Wallet accessed by mom 2022-10-09 22:37:55.347267
+INFO:root:Wallet accessed by mom 2022-10-09 22:37:55.347267
+INFO:root:Wallet accessed by mom 2022-10-09 22:37:55.347267
+INFO:root:Wallet accessed by mom 2022-10-09 22:37:55.347267
+INFO:root:Wallet accessed by mom 2022-10-09 22:43:22.347105
+INFO:root:Wallet accessed by mom 2022-10-09 22:43:22.347105
+INFO:root:Wallet accessed by mom 2022-10-09 22:44:13.682847
+INFO:root:Wallet accessed by mom 2022-10-09 22:44:13.682847
+INFO:root:Wallet accessed by mom 2022-10-10 13:57:32.800859
+INFO:root:Wallet accessed by mom 2022-10-10 13:57:32.800859
+INFO:root:Wallet accessed by mom 2022-10-10 17:07:36.772734
+INFO:root:Wallet accessed by mom 2022-10-10 17:08:24.899711
+INFO:root:Wallet accessed by mom 2022-10-10 17:09:50.220617
+INFO:root:mom's deposit for $1000 accepted 2022-10-10 17:09:50.220617
+INFO:root:mom Withdraw 100 2022-10-10 17:09:50.220617
+INFO:root:Wallet accessed by mom 2022-10-10 17:11:26.402077
+INFO:root:Wallet accessed by mom 2022-10-10 17:12:42.973689
+INFO:root:mom's deposit for $1000 accepted 2022-10-10 17:12:42.973689
+INFO:root:Wallet accessed by mom 2022-10-10 17:14:08.805545
+INFO:root:mom's deposit for $1000 accepted 2022-10-10 17:14:08.805545
+INFO:root:Wallet accessed by mom 2022-10-10 17:15:11.178238
+INFO:root:Wallet accessed by mom 2022-10-10 17:20:55.635613
+INFO:root:mom's deposit for $1000 accepted 2022-10-10 17:20:55.635613
+INFO:root:mom Withdraw 100 2022-10-10 17:20:55.635613
+INFO:root:Wallet accessed by mom 2022-10-10 17:20:55.635613
+INFO:root:Wallet accessed by jake 2022-10-10 17:54:26.249072
+INFO:root:Wallet accessed by tony 2022-10-10 17:54:26.249072
+INFO:root:Wallet accessed by mickey 2022-10-10 17:54:26.249072
+INFO:root:Wallet accessed by sofia 2022-10-10 17:54:26.249072
+INFO:root:Wallet accessed by mia 2022-10-10 17:54:26.249072
+INFO:root:Wallet accessed by shakira 2022-10-10 17:54:26.249072
+INFO:root:Wallet accessed by amber 2022-10-10 17:54:26.249072
+INFO:root:Wallet accessed by ambani 2022-10-10 17:54:26.249072
+INFO:root:Wallet accessed by jake 2022-10-10 17:54:46.399879
+INFO:root:Wallet accessed by tony 2022-10-10 17:54:46.399879
+INFO:root:Wallet accessed by mickey 2022-10-10 17:54:46.399879
+INFO:root:Wallet accessed by sofia 2022-10-10 17:54:46.399879
+INFO:root:Wallet accessed by mia 2022-10-10 17:54:46.399879
+INFO:root:Wallet accessed by shakira 2022-10-10 17:54:46.399879
+INFO:root:Wallet accessed by amber 2022-10-10 17:54:46.399879
+INFO:root:Wallet accessed by ambani 2022-10-10 17:54:46.399879
+INFO:root:Dollarama 100 2022-10-10 17:54:46.399879
+INFO:root:Wallet accessed by dad 2022-10-10 21:17:11.670989
+INFO:root:Wallet accessed by dad 2022-10-10 21:17:11.670989
+INFO:root:Wallet accessed by dad 2022-10-10 21:17:11.670989
+INFO:root:Wallet accessed by dad 2022-10-10 21:17:11.670989
+INFO:root:Wallet accessed by dad 2022-10-10 21:17:11.670989
+INFO:root:Wallet accessed by dad 2022-10-10 21:17:11.670989
+INFO:root:Wallet accessed by mom 2022-10-10 21:17:11.670989
+INFO:root:Wallet accessed by mom 2022-10-10 21:17:11.670989
+INFO:root:Wallet accessed by mom 2022-10-10 22:30:02.979803
+INFO:root:Wallet accessed by mom 2022-10-10 22:30:02.979803
+INFO:root:Wallet accessed by mom 2022-10-10 22:30:54.443972
+INFO:root:Wallet accessed by mom 2022-10-10 22:30:54.443972
+INFO:root:Wallet accessed by mom 2022-10-10 22:30:54.443972
+INFO:root:Wallet accessed by mom 2022-10-10 22:41:07.542875
+INFO:root:Wallet accessed by mom 2022-10-10 22:41:39.945968
+INFO:root:Wallet accessed by mom 2022-10-10 22:41:56.174162
+INFO:root:Wallet accessed by mom 2022-10-10 22:44:34.973246
+INFO:root:Wallet accessed by mom 2022-10-10 22:45:53.114228
+INFO:root:Wallet accessed by mom 2022-10-10 22:50:35.364381
+INFO:root:Wallet accessed by mom 2022-10-10 22:51:01.198038
+INFO:root:Wallet accessed by mom 2022-10-10 22:51:01.198038
+INFO:root:Wallet accessed by mom 2022-10-10 22:51:45.050617
+INFO:root:Wallet accessed by mom 2022-10-10 22:53:38.256946
+INFO:root:Wallet accessed by mom 2022-10-10 22:54:04.276905
+INFO:root:Wallet accessed by mom 2022-10-10 22:56:55.267227
+INFO:root:Wallet accessed by mom 2022-10-10 22:57:26.128479
+INFO:root:Wallet accessed by mom 2022-10-10 22:59:17.926489
+INFO:root:Wallet accessed by mom 2022-10-10 23:01:23.717936
+INFO:root:Wallet accessed by mom 2022-10-10 23:02:14.821250
+INFO:root:Wallet accessed by mom 2022-10-10 23:05:33.295904
+INFO:root:Wallet accessed by mom 2022-10-10 23:06:16.892441
+INFO:root:Wallet accessed by mom 2022-10-10 23:06:47.496085
+INFO:root:Wallet accessed by mom 2022-10-10 23:08:23.895676
+INFO:root:Wallet accessed by mom 2022-10-10 23:16:15.452773
+INFO:root:Wallet accessed by mom 2022-10-10 23:17:41.134888
+INFO:root:Wallet accessed by mom 2022-10-10 23:18:58.864500
