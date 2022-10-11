@@ -70,14 +70,17 @@ class Family_Wallet:
                 self.my_notifications()
         else:
             print("\nHello {}!, your family wallet balance is ${}".format(self.name, balance))
-            overpay_check = self.check_overpay()
-            if overpay_check:
-                for name in self.overpay_request:
-                    if self.overpay_amount[name] > 0:
-                        self.overpay_req(name, self.overpay_amount[name])
-            else:
-                print("No overpay request")
+            self.overpay_confirmation()
+
             input("Press Enter to go back to the menu")
+
+    def overpay_confirmation(self):
+        if self.check_overpay:
+            for name in self.overpay_request:
+                if self.overpay_amount[name] > 0:
+                    self.overpay_req(name, self.overpay_amount[name])
+        else:
+            print("No overpay requests")
 
     def check_overpay(self):
         for name in self.overpay_request:
@@ -96,7 +99,6 @@ class Family_Wallet:
         elif decision == "n":
             print("false")
             return False
-
 
     def deposit(self, amount, member):
         if member == "dad" or member == "mom":
