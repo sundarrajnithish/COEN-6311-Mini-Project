@@ -1,7 +1,7 @@
 # # # #
 # # # # #from wallet import Family_Walletfrom datetime import datetime
 # # # #
-# import pickle
+import pickle
 #
 # # #
 # # # input("Press Enter to go back to the menu")
@@ -15,33 +15,35 @@
 # # dummy = Mom()
 # # dummy.check_overpay()
 #
-# overpay_request = {"jake": False,
+# transaction_valid = {"jake": True,
 #                    "tony": True,
-#                    "mickey": False,
-#                    "sofia": False,
-#                    "mia": False,
+#                    "mickey": True,
+#                    "sofia": True,
+#                    "mia": True,
 #                    "shakira": True,
-#                    "amber": False,
+#                    "amber": True,
 #                    "ambani": True}
 #
-# overpay_amount = {"jake": 0,
-#                   "tony": 0,
-#                   "mickey": 0,
-#                   "sofia": 0,
-#                   "mia": 0,
-#                   "shakira": 0,
-#                   "amber": 0,
-#                   "ambani": 0}
-#
+# overpay_amount = {"jake": 50,
+#                   "tony": 50,
+#                   "mickey": 50,
+#                   "sofia": 50,
+#                   "mia": 50,
+#                   "shakira": 50,
+#                   "amber": 50,
+#                   "ambani": 50}
+
+transaction_list = [('name', 'shop_name', 'amount', 'date_time')]
+
 # # for request in overpay_request:
 # #     if overpay_request[request]:
 # #         print("This is true {}".format(request))
 # #         if overpay_amount[request] > 0:
 # #             print(overpay_amount[request])
 #
-# with open('overpay_amount.pickle', 'wb') as handle:
-#     pickle.dump(overpay_amount, handle, protocol=pickle.HIGHEST_PROTOCOL)
-#
+with open('data/transaction_list.pickle', 'wb') as handle:
+    pickle.dump(transaction_list, handle, protocol=pickle.HIGHEST_PROTOCOL)
+
 # # #
 # # # #
 # # # # # blocked = ()

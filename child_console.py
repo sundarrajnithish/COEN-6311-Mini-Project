@@ -1,10 +1,12 @@
-from main_data import Kid
-from main_data import Family_Wallet
+from backend import Kid
+from backend import Family_Wallet
 import time
 
-user = 0
+user = ""
 logged_in = False
 
+
+# Welcome page for the kids wallet access
 def welcome():
     global user
     global logged_in
@@ -40,16 +42,19 @@ def login():
         user.transaction(shop_name=input("Enter the merchant name: "), amount=input("Enter the amount: $"))
         login()
     if task == '2':
-        print("Your available balance is {}" .format(user.daily_balance))
+        print("Your available balance is {}".format(user.daily_balance))
         login()
     if task == '3':
         print("Loading...")
         time.sleep(1)
         welcome()
+    if task == '4':
+        print(user.transaction_list)
+        login()
 
 
 while True:
-    if logged_in == True:
+    if logged_in:
         login()
     else:
         welcome()

@@ -557,57 +557,30 @@ INFO:root:Wallet accessed by jake 2022-10-14 15:47:08.799053
 INFO:root:Wallet accessed by mom 2022-10-15 11:19:27.313713
 INFO:root:Wallet accessed by jake 2022-10-15 11:20:28.446490
 INFO:root:Wallet accessed by jake 2022-10-15 11:20:28.446490
-INFO:root:Wallet accessed by jake 2022-10-15 17:04:35.631582
-INFO:root:Wallet accessed by jake 2022-10-15 17:04:35.631582
-INFO:root:Dollarama 2 2022-10-15 17:04:35.631582
-INFO:root:Wallet accessed by jake 2022-10-15 17:04:35.631582
-INFO:root:dollar 3 2022-10-15 17:04:35.631582
-INFO:root:Wallet accessed by jake 2022-10-15 17:04:35.631582
-INFO:root:dest 5 2022-10-15 17:04:35.631582
-INFO:root:Wallet accessed by jake 2022-10-15 17:04:35.631582
-INFO:root:Wallet accessed by jake 2022-10-15 17:09:35.931876
-INFO:root:Wallet accessed by jake 2022-10-15 17:09:35.931876
-INFO:root:lol 2 2022-10-15 17:09:35.931876
-INFO:root:Wallet accessed by jake 2022-10-15 17:09:35.931876
-INFO:root:lol 2 2022-10-15 17:09:35.931876
-INFO:root:Wallet accessed by jake 2022-10-15 17:09:35.931876
-INFO:root:Wallet accessed by jake 2022-10-15 17:10:44.189521
-INFO:root:Wallet accessed by jake 2022-10-15 17:10:44.189521
-INFO:root:Wallet accessed by jake 2022-10-15 17:10:44.189521
-INFO:root:Wallet accessed by jake 2022-10-15 17:10:44.189521
-INFO:root:Wallet accessed by jake 2022-10-15 17:10:44.189521
-INFO:root:22123 3 2022-10-15 17:10:44.189521
-INFO:root:Wallet accessed by jake 2022-10-15 17:10:44.189521
-INFO:root:Wallet accessed by jake 2022-10-15 17:10:44.189521
-INFO:root:Wallet accessed by jake 2022-10-15 17:11:33.724603
-INFO:root:Wallet accessed by jake 2022-10-15 17:11:33.724603
-INFO:root:dollarama 10 2022-10-15 17:11:33.724603
-INFO:root:Wallet accessed by jake 2022-10-15 17:11:33.724603
-INFO:root:Wallet accessed by jake 2022-10-15 18:17:58.871856
-INFO:root:Wallet accessed by jake 2022-10-15 18:17:58.871856
-INFO:root:Wallet accessed by jake 2022-10-15 18:17:58.871856
-INFO:root:dollar 2 2022-10-15 18:17:58.871856
-INFO:root:Wallet accessed by jake 2022-10-15 18:17:58.871856
-INFO:root:Wallet accessed by jake 2022-10-15 18:17:58.871856
-INFO:root:dollarama 12 2022-10-15 18:17:58.871856
-INFO:root:Wallet accessed by jake 2022-10-15 18:17:58.871856
-INFO:root:Wallet accessed by jake 2022-10-15 18:25:05.393560
-INFO:root:Wallet accessed by jake 2022-10-15 18:25:05.393560
-INFO:root:dollarama 2 2022-10-15 18:25:05.393560
-INFO:root:Wallet accessed by jake 2022-10-15 18:25:05.393560
-INFO:root:Wallet accessed by jake 2022-10-15 18:25:56.140141
-INFO:root:Wallet accessed by jake 2022-10-15 18:25:56.140141
-INFO:root:dollarama 12 2022-10-15 18:25:56.140141
-INFO:root:Wallet accessed by jake 2022-10-15 18:25:56.140141
-INFO:root:Wallet accessed by jake 2022-10-15 18:33:09.502083
-INFO:root:Wallet accessed by jake 2022-10-15 18:33:09.502083
-INFO:root:lol 12 2022-10-15 18:33:09.502083
-INFO:root:Wallet accessed by jake 2022-10-15 18:33:09.502083
-INFO:root:Wallet accessed by jake 2022-10-15 18:34:03.701000
-INFO:root:Wallet accessed by jake 2022-10-15 18:34:03.701000
-INFO:root:12 12 2022-10-15 18:34:03.701000
-INFO:root:Wallet accessed by jake 2022-10-15 18:34:03.701000
-INFO:root:Wallet accessed by jake 2022-10-15 18:37:16.641157
-INFO:root:Wallet accessed by jake 2022-10-15 18:37:16.641157
-INFO:root:dollar 12 2022-10-15 18:37:16.641157
-INFO:root:Wallet accessed by jake 2022-10-15 18:37:16.641157
+INFO:root:Wallet accessed by mom 2022-10-15 16:22:49.314786
+INFO:root:Wallet accessed by mom 2022-10-15 16:22:49.314786
+INFO:root:Wallet accessed by mom 2022-10-15 16:22:49.314786
+INFO:root:mom's deposit for $100 accepted 2022-10-15 16:22:49.314786
+INFO:root:mom Withdraw 1 2022-10-15 16:22:49.314786
+INFO:root:Wallet accessed by mom 2022-10-15 16:22:49.314786
+INFO:root:Wallet accessed by mom 2022-10-15 17:06:00.284965
+INFO:root:Wallet accessed by mom 2022-10-15 18:12:53.375342
+INFO:root:Wallet accessed by mom 2022-10-15 18:12:53.375342
+INFO:root:Wallet accessed by mom 2022-10-15 18:12:53.375342
+INFO:root:Wallet accessed by mom 2022-10-15 18:24:58.152467
+INFO:root:Wallet accessed by mom 2022-10-15 18:25:54.305160
+INFO:root:Wallet accessed by mom 2022-10-15 18:33:08.088525
+INFO:root:Wallet accessed by jake 2022-10-15 18:38:05.318428
+INFO:root:Wallet accessed by jake 2022-10-15 18:38:05.318428
+INFO:root:Wallet accessed by jake 2022-10-15 18:38:05.318428
+INFO:root:Wallet accessed by jake 2022-10-15 18:40:19.753185
+INFO:root:Wallet accessed by jake 2022-10-15 18:40:19.753185
+INFO:root:Wallet accessed by jake 2022-10-15 18:40:19.753185
+INFO:root:Wallet accessed by jake 2022-10-15 18:40:53.147333
+INFO:root:Wallet accessed by jake 2022-10-15 18:40:53.147333
+INFO:root:lol' 10 2022-10-15 18:40:53.147333
+INFO:root:Wallet accessed by jake 2022-10-15 18:40:53.147333
+INFO:root:Wallet accessed by mom 2022-10-15 18:33:08.088525
+INFO:root:Wallet accessed by tony 2022-10-15 18:42:30.132841
+INFO:root:Wallet accessed by tony 2022-10-15 18:42:30.132841
+INFO:root:Wallet accessed by tony 2022-10-15 18:42:30.132841
