@@ -78,7 +78,7 @@ class Family_Wallet:
 
         # Removing the repeated names (if any) in the blocked list
         with open('data/blocked.pickle', 'rb') as handle:
-            self.blocked = pickle.load(handle)
+            self.accessed_blocked = pickle.load(handle)
         [self.blocked.append(name) for name in self.accessed_blocked if name not in self.blocked]
         with open('data/blocked.pickle', 'wb') as handle:
             pickle.dump(self.blocked, handle, protocol=pickle.HIGHEST_PROTOCOL)
@@ -491,9 +491,17 @@ class Family_Wallet:
                 input("Press Enter to go back to the menu")
 
         def transaction_reset(self):
+            with open('data/transaction_list.pickle', 'rb') as handle:
+                self.transaction_list = pickle.load(handle)
+            with open('data/overpay_amount.pickle', 'rb') as handle:
+                self.overpay_amount = pickle.load(handle)
             for tx in self.transaction_list:
                 if tx[0] == self.name and tx[3] != dateTimeObj.date():
                     self.overpay_amount[self.name] = 50
+                    with open('data/overpay_amount.pickle', 'wb') as handle:
+                        pickle.dump(self.overpay_amount, handle, protocol=pickle.HIGHEST_PROTOCOL)
+            with open('data/transaction_list.pickle', 'wb') as handle:
+                pickle.dump(self.transaction_list, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
         def transaction(self, amount, shop_name):
             self.transaction_reset()
@@ -563,7 +571,7 @@ class Family_Wallet:
                 print("Debug: Transaction flag status = ", self.transaction_flag)
                 if self.transaction_flag[self.name] == 0:
                     # Note that transaction flag 1 is an exception for making 1 transaction
-                    if count >= 2 and self.transaction_flag[self.name] == 0:
+                    if count > 1 and self.transaction_flag[self.name] == 0:
                         decision = input(
                             "You have requested payment for more than once! \n Type '1' to request permission for "
                             "wallet \n Press Enter to go back to the menu")

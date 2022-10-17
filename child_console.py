@@ -21,10 +21,12 @@ def welcome():
         user = Family_Wallet.Kid('tony')
     if users == '3':
         user = Family_Wallet.Kid('mickey')
+        user.transaction_reset()
         print("This is the output it provides", user.overpay_amount[user.name])
         print("This is the whole list", user.overpay_amount)
     if users == '4':
         user = Family_Wallet.Kid('sofia')
+        user.transaction_reset()
         print("This is the output it provides", user.overpay_amount[user.name])
         print("This is the whole list", user.overpay_amount)
     if users == '5':
@@ -39,6 +41,7 @@ def welcome():
 
 def login():
     global user
+    user.transaction_reset()
     my_wallet = Family_Wallet(user.name)
     if not my_wallet.blocked_user_flag:
         task = input("Welcome {}! \n You daily balance is ${} \n What would you like to do? \n 1. Pay "
