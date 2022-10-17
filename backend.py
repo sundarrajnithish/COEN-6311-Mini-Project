@@ -71,17 +71,18 @@ class Family_Wallet:
         self.overpay_flag = True
         self.overpay_dad = overpay_dad
         self.blocked_user_flag = False
+
         # Name of the person accessing the wallet
         self.name = name
         self.blocked = []
-        # self.req_name = ""
-        # self.req_amount = 0
+
         # Removing the repeated names (if any) in the blocked list
         with open('data/blocked.pickle', 'rb') as handle:
             self.blocked = pickle.load(handle)
         [self.blocked.append(name) for name in self.accessed_blocked if name not in self.blocked]
         with open('data/blocked.pickle', 'wb') as handle:
             pickle.dump(self.blocked, handle, protocol=pickle.HIGHEST_PROTOCOL)
+
         print("Debug: Blocked list", self.blocked)
         # Checking if the user is blocked from the wallet
         for names in self.blocked:
@@ -211,7 +212,9 @@ class Family_Wallet:
             for temp_tx in temp_transaction_list:
                 print(temp_tx)
             # print(self.transaction_list)
+            time.sleep(0.5)
             input("Press Enter to go back to the menu")
+            time.sleep(0.5)
             self.parent_wallet_access()
         if decision == '4':
             self.parent_wallet_notifications()
@@ -227,6 +230,7 @@ class Family_Wallet:
                     self.blocked.append(block)
                     with open('data/blocked.pickle', 'wb') as handle:
                         pickle.dump(self.blocked, handle, protocol=pickle.HIGHEST_PROTOCOL)
+                    self.parent_wallet_access()
                 if status == '2':
                     unblock = input("Enter the name of the person to be unblocked: ")
                     with open('data/blocked.pickle', 'rb') as handle:
@@ -234,6 +238,7 @@ class Family_Wallet:
                     self.blocked.remove(unblock)
                     with open('data/blocked.pickle', 'wb') as handle:
                         pickle.dump(self.blocked, handle, protocol=pickle.HIGHEST_PROTOCOL)
+                    self.parent_wallet_access()
             else:
                 print("\n Please enter a valid option... \n")
                 self.parent_wallet_access()
@@ -543,8 +548,8 @@ class Family_Wallet:
             #     # print("not transaction list (empty list)", self.transaction_list)
             #     return True
             for tx in self.transaction_list:
-                # print("Hello 2 ")
-                # print(tx[0],self.name,tx[3],dateTimeObj.date())
+                print("Hello 2 ")
+                print(tx[0],self.name,tx[3],dateTimeObj.date())
                 if tx[0] == self.name and tx[3] == dateTimeObj.date():
                     temp_list = [self.name, dateTimeObj.date()]
                     print(temp_list)
@@ -556,7 +561,7 @@ class Family_Wallet:
                     # print("for loop is checking the list", self.transaction_list)
             if self.transaction_valid[self.name]:
                 print("Debug: Transaction flag status = ", self.transaction_flag)
-                if self.transaction_flag[self.name] != 1:
+                if self.transaction_flag[self.name] == 0:
                     # Note that transaction flag 1 is an exception for making 1 transaction
                     if count >= 2 and self.transaction_flag[self.name] == 0:
                         decision = input(
@@ -581,11 +586,12 @@ class Family_Wallet:
                             with open('data/transaction_flag.pickle', 'wb') as handle:
                                 pickle.dump(self.transaction_flag, handle, protocol=pickle.HIGHEST_PROTOCOL)
                             return True
-                else:
-                    self.transaction_flag[self.name] = 0
-                    with open('data/transaction_flag.pickle', 'wb') as handle:
-                        pickle.dump(self.transaction_flag, handle, protocol=pickle.HIGHEST_PROTOCOL)
-                    return True
+                    else:
+                        self.transaction_flag[self.name] = 0
+                        with open('data/transaction_flag.pickle', 'wb') as handle:
+                            pickle.dump(self.transaction_flag, handle, protocol=pickle.HIGHEST_PROTOCOL)
+                        print("Returning True")
+                        return True
 
     # Mom account related functions
 
