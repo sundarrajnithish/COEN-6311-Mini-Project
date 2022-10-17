@@ -40,19 +40,22 @@ def welcome():
 def login():
     global user
     my_wallet = Family_Wallet(user.name)
-    task = input("Welcome {}! \n You daily balance is ${} \n What would you like to do? \n 1. Pay "
-                 " \n 2. Logout".format(user.name, user.overpay_amount[user.name]))
-    if task == '1':
-        user.transaction(shop_name=input("Enter the merchant name: "), amount=input("Enter the amount: $"))
-        login()
-    if task == '2':
-        print("Loading...")
-        time.sleep(1)
+    if not my_wallet.blocked_user_flag:
+        task = input("Welcome {}! \n You daily balance is ${} \n What would you like to do? \n 1. Pay "
+                     " \n 2. Logout".format(user.name, user.overpay_amount[user.name]))
+        if task == '1':
+            user.transaction(shop_name=input("Enter the merchant name: "), amount=input("Enter the amount: $"))
+            login()
+        if task == '2':
+            print("Loading...")
+            time.sleep(1)
+            welcome()
+        if task == 'print':
+            print(user.transaction_list)
+            login()
+    else:
+        print("You have been blocked from using the wallet \n Request Dad to Unblock")
         welcome()
-    if task == 'print':
-        print(user.transaction_list)
-        login()
-
 
 while True:
     if logged_in:

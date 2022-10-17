@@ -15,17 +15,10 @@ import pickle
 # # # dummy = Mom()
 # # # dummy.check_overpay()
 
-transaction_flag = {"jake": 0,
-                     "tony": 0,
-                     "mickey": 0,
-                     "sofia": 0,
-                     "mia": 0,
-                     "shakira": 0,
-                     "amber": 0,
-                     "ambani": 0}
-
-with open('data/transaction_flag.pickle', 'wb') as handle:
-    pickle.dump(transaction_flag, handle, protocol=pickle.HIGHEST_PROTOCOL)
+# blocked = []
+#
+# with open('data/blocked.pickle', 'wb') as handle:
+#     pickle.dump(blocked, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
 
 
@@ -38,6 +31,8 @@ transaction_valid = {"jake": True,
                      "shakira": True,
                      "amber": True,
                      "ambani": True}
+with open('data/transaction_valid.pickle', 'wb') as handle:
+    pickle.dump(transaction_valid, handle, protocol=pickle.HIGHEST_PROTOCOL)
 # #
 # # overpay_amount = {"jake": 50,
 # #                   "tony": 50,

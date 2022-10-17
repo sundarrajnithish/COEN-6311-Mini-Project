@@ -42,7 +42,8 @@ with open('data/mom_balance.pickle', 'rb') as handle:
     mom_balance = pickle.load(handle)
 with open('data/dad_balance.pickle', 'rb') as handle:
     dad_balance = pickle.load(handle)
-
+with open('data/overpay_dad.pickle', 'rb') as handle:
+    overpay_dad = pickle.load(handle)
 with open('data/transaction_flag.pickle', 'rb') as handle:
     transaction_flag = pickle.load(handle)
 
@@ -68,18 +69,26 @@ class Family_Wallet:
         self.mom_overpay_flag = 0
         self.already_accepted_flag = 0
         self.overpay_flag = True
+        self.overpay_dad = overpay_dad
+        self.blocked_user_flag = False
         # Name of the person accessing the wallet
         self.name = name
         self.blocked = []
-        self.req_name = ""
-        self.req_amount = 0
+        # self.req_name = ""
+        # self.req_amount = 0
         # Removing the repeated names (if any) in the blocked list
+        with open('data/blocked.pickle', 'rb') as handle:
+            self.blocked = pickle.load(handle)
         [self.blocked.append(name) for name in self.accessed_blocked if name not in self.blocked]
+        with open('data/blocked.pickle', 'wb') as handle:
+            pickle.dump(self.blocked, handle, protocol=pickle.HIGHEST_PROTOCOL)
+        print("Debug: Blocked list", self.blocked)
         # Checking if the user is blocked from the wallet
         for names in self.blocked:
             if names == self.name and names != 'dad' and names != 'mom':
                 print("{} you dont have access to the wallet".format(name))
                 logging.info("Wallet tried to access by {} {}".format(name, dateTimeObj))
+                self.blocked_user_flag = True
 
         logging.info("Wallet accessed by {} {}".format(name, dateTimeObj))
 
@@ -213,10 +222,18 @@ class Family_Wallet:
                                "\n 2. Unblock")
                 if status == '1':
                     block = input("Enter the name of the person to be blocked: ")
+                    with open('data/blocked.pickle', 'rb') as handle:
+                        self.blocked = pickle.load(handle)
                     self.blocked.append(block)
+                    with open('data/blocked.pickle', 'wb') as handle:
+                        pickle.dump(self.blocked, handle, protocol=pickle.HIGHEST_PROTOCOL)
                 if status == '2':
                     unblock = input("Enter the name of the person to be unblocked: ")
+                    with open('data/blocked.pickle', 'rb') as handle:
+                        self.blocked = pickle.load(handle)
                     self.blocked.remove(unblock)
+                    with open('data/blocked.pickle', 'wb') as handle:
+                        pickle.dump(self.blocked, handle, protocol=pickle.HIGHEST_PROTOCOL)
             else:
                 print("\n Please enter a valid option... \n")
                 self.parent_wallet_access()
@@ -307,17 +324,23 @@ class Family_Wallet:
                 pickle.dump(self.transaction_valid, handle, protocol=pickle.HIGHEST_PROTOCOL)
         else:
             self.mom_overpay_flag = 1
-            self.req_name = name
-            self.req_amount = amount
+            with open('data/overpay_dad.pickle', 'rb') as handle:
+                self.overpay_dad = pickle.load(handle)
+            self.overpay_dad.append(name, amount, balance)
+            with open('data/overpay_dad.pickle', 'wb') as handle:
+                pickle.dump(self.overpay_dad, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
     # Dad's overpay action functions
     def overpay_req_dad(self):
-        if self.req_name and self.req_amount:
-            name = self.req_name
-            amount = self.req_amount
+        with open('data/overpay_dad.pickle', 'rb') as handle:
+            self.overpay_dad = pickle.load(handle)
+        if self.overpay_dad:
+            name = self.overpay_dad[0]
+            amount = self.overpay_dad[1]
+            balance = self.overpay_dad[2]
             decision = input(
-                "Do you want to accept overpay request of ${} for {}? Press (y/n). ".format(self.req_amount,
-                                                                                            self.req_name))
+                "Do you want to accept overpay request of ${} for {}? Press (y/n). ".format(amount,
+                                                                                            name))
             if decision == "y":
                 self.overpay_request[name] = False
                 with open('data/overpay_request.pickle', 'wb') as handle:
@@ -334,11 +357,21 @@ class Family_Wallet:
                 with open('data/overpay_request.pickle', 'wb') as handle:
                     pickle.dump(self.overpay_request, handle, protocol=pickle.HIGHEST_PROTOCOL)
                 print("Your denial has been registered")
+                self.overpay_amount[name] = balance
+                with open('data/overpay_amount.pickle', 'wb') as handle:
+                    pickle.dump(self.overpay_amount, handle, protocol=pickle.HIGHEST_PROTOCOL)
                 self.transaction_valid[name] = False
                 with open('data/transaction_valid.pickle', 'wb') as handle:
                     pickle.dump(self.transaction_valid, handle, protocol=pickle.HIGHEST_PROTOCOL)
+                self.overpay_dad = []
+                with open('data/overpay_dad.pickle', 'wb') as handle:
+                    pickle.dump(self.overpay_dad, handle, protocol=pickle.HIGHEST_PROTOCOL)
         else:
-            pass
+            # self.overpay_dad = []
+            # with open('data/overpay_dad.pickle', 'wb') as handle:
+            #     pickle.dump(self.overpay_dad, handle, protocol=pickle.HIGHEST_PROTOCOL)
+            print("You have denied the overpay request.. \n You require to change the transaction status manually to "
+                  "allow a family member make transactions")
 
     def parent_wallet_notifications(self):
         balance = int(self.wallet_balance)
