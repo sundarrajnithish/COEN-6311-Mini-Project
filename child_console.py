@@ -45,7 +45,7 @@ def login():
     my_wallet = Family_Wallet(user.name)
     if not my_wallet.blocked_user_flag:
         task = input("Welcome {}! \n You daily balance is ${} \n What would you like to do? \n 1. Pay "
-                     " \n 2. Logout".format(user.name, user.overpay_amount[user.name]))
+                     " \n 2. Logout".format(user.name, user.daily_balance_refresh()))
         if task == '1':
             user.transaction(shop_name=input("Enter the merchant name: "), amount=input("Enter the amount: $"))
             login()
