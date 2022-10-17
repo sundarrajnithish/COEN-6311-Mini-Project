@@ -1,9 +1,9 @@
-import os
+#import os
 import time
-from backend import Dad, Mom, Family_Wallet
+from backend import Family_Wallet
 
-sarah_williams = Mom()
-williams_hemisphere = Dad()
+sarah_williams = Family_Wallet.Mom()
+williams_hemisphere = Family_Wallet.Dad()
 
 
 # Welcome screen for the parent console
@@ -17,8 +17,8 @@ def welcome():
 # Menu after logging in
 def menu(users):
     if users == '1' or users == '2':
-        menus = input("What would you like to do today? \n 1. Withdraw (Bank) \n 2. Deposit (Bank) \n 3. Family Wallet "
-                      "\n 4. Notifications. \n 5. Logout \n Your choice: ")
+        menus = input("Choose any option below: \n 1. Withdraw (Bank) \n 2. Deposit (Bank) \n 3. Family Wallet "
+                      "\n 4. Logout \n Your choice: ")
         return menus
 
 
@@ -37,9 +37,6 @@ def mom(user_mom):
         mom_wallet.parent_wallet_access()
         mom(user_mom)
     if menus == '4' and user_mom == '1':
-        mom_wallet.parent_notification()
-        mom(user_mom)
-    if menus == '5' and user_mom == '1':
         time.sleep(1)
         print("You have successfully logged out! \n\n\n")
 
@@ -58,9 +55,6 @@ def dad(user_dad):
         dad_wallet.parent_wallet_access()
         dad(user_dad)
     if menus == '4' and user_dad == '2':
-        dad_wallet.parent_notification()
-        dad(user_dad)
-    if menus == '5' and user_dad == '2':
         time.sleep(1)
         print("You have successfully logged out! \n\n\n")
 

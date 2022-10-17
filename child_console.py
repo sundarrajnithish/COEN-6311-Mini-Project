@@ -1,4 +1,4 @@
-from backend import Kid
+
 from backend import Family_Wallet
 import time
 
@@ -16,39 +16,40 @@ def welcome():
                   "Ambani Williams \n Your choice: ")
     logged_in = True
     if users == '1':
-        user = Kid('jake')
+        user = Family_Wallet.Kid('jake')
     if users == '2':
-        user = Kid('tony')
+        user = Family_Wallet.Kid('tony')
     if users == '3':
-        user = Kid('mickey')
+        user = Family_Wallet.Kid('mickey')
+        print("This is the output it provides", user.overpay_amount[user.name])
+        print("This is the whole list", user.overpay_amount)
     if users == '4':
-        user = Kid('sofia')
+        user = Family_Wallet.Kid('sofia')
+        print("This is the output it provides", user.overpay_amount[user.name])
+        print("This is the whole list", user.overpay_amount)
     if users == '5':
-        user = Kid('mia')
+        user = Family_Wallet.Kid('mia')
     if users == '6':
-        user = Kid('shakira')
+        user = Family_Wallet.Kid('shakira')
     if users == '7':
-        user = Kid('amber')
+        user = Family_Wallet.Kid('amber')
     if users == '8':
-        user = Kid('ambani')
+        user = Family_Wallet.Kid('ambani')
 
 
 def login():
     global user
     my_wallet = Family_Wallet(user.name)
-    task = input("Welcome {}! \n You wallet balance is ${} \n What would you like to do? \n 1. Pay 2. Check daily "
-                 "balance \n 3. Logout".format(user.name, user.daily_balance))
+    task = input("Welcome {}! \n You daily balance is ${} \n What would you like to do? \n 1. Pay "
+                 " \n 2. Logout".format(user.name, user.overpay_amount[user.name]))
     if task == '1':
         user.transaction(shop_name=input("Enter the merchant name: "), amount=input("Enter the amount: $"))
         login()
     if task == '2':
-        print("Your available balance is {}".format(user.daily_balance))
-        login()
-    if task == '3':
         print("Loading...")
         time.sleep(1)
         welcome()
-    if task == '4':
+    if task == 'print':
         print(user.transaction_list)
         login()
 

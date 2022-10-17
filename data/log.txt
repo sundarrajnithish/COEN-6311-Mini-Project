@@ -584,3 +584,343 @@ INFO:root:Wallet accessed by mom 2022-10-15 18:33:08.088525
 INFO:root:Wallet accessed by tony 2022-10-15 18:42:30.132841
 INFO:root:Wallet accessed by tony 2022-10-15 18:42:30.132841
 INFO:root:Wallet accessed by tony 2022-10-15 18:42:30.132841
+INFO:root:Wallet accessed by mom 2022-10-15 21:43:26.701138
+INFO:root:Wallet accessed by mom 2022-10-15 21:43:26.701138
+INFO:root:Wallet accessed by mom 2022-10-15 21:43:26.701138
+INFO:root:Wallet accessed by dad 2022-10-15 21:43:26.701138
+INFO:root:Wallet accessed by dad 2022-10-15 21:43:26.701138
+INFO:root:Wallet accessed by dad 2022-10-15 21:43:26.701138
+INFO:root:Wallet accessed by dad 2022-10-15 21:43:26.701138
+INFO:root:Wallet accessed by mom 2022-10-15 21:43:26.701138
+INFO:root:mom's deposit for $10 accepted 2022-10-15 21:43:26.701138
+INFO:root:Wallet accessed by mom 2022-10-15 21:47:39.900028
+INFO:root:Wallet accessed by mom 2022-10-15 21:47:39.900028
+INFO:root:mom's deposit for $100 accepted 2022-10-15 21:47:39.900028
+INFO:root:Wallet accessed by mom 2022-10-15 21:55:15.944528
+INFO:root:Wallet accessed by mom 2022-10-15 21:55:15.944528
+INFO:root:mom's deposit for $12 accepted 2022-10-15 21:55:15.944528
+INFO:root:Wallet accessed by mom 2022-10-15 22:02:17.634568
+INFO:root:mom's deposit for $10 accepted 2022-10-15 22:02:17.634568
+INFO:root:mom's deposit for $10 accepted 2022-10-15 22:02:17.634568
+INFO:root:mom Withdraw 11 2022-10-15 22:02:17.634568
+INFO:root:Wallet accessed by mom 2022-10-15 22:03:40.300606
+INFO:root:mom Withdraw 100 2022-10-15 22:03:40.300606
+INFO:root:mom Withdraw 100 2022-10-15 22:03:40.300606
+INFO:root:Wallet accessed by jake 2022-10-15 22:07:29.301673
+INFO:root:Wallet accessed by jake 2022-10-15 22:07:29.301673
+INFO:root:dollarama 11 2022-10-15 22:07:29.301673
+INFO:root:Wallet accessed by jake 2022-10-15 22:07:29.301673
+INFO:root:Wallet accessed by mom 2022-10-15 22:11:59.638198
+INFO:root:Wallet accessed by mia 2022-10-15 22:07:29.301673
+INFO:root:Wallet accessed by mia 2022-10-15 22:07:29.301673
+INFO:root:Wallet accessed by mia 2022-10-15 22:07:29.301673
+INFO:root:Wallet accessed by mia 2022-10-15 22:15:49.856818
+INFO:root:Wallet accessed by mia 2022-10-15 22:15:49.856818
+INFO:root:Wallet accessed by mia 2022-10-15 22:15:49.856818
+INFO:root:Wallet accessed by mia 2022-10-15 22:21:22.308940
+INFO:root:Wallet accessed by mia 2022-10-15 22:21:22.308940
+INFO:root:Wallet accessed by mia 2022-10-15 22:21:22.308940
+INFO:root:Wallet accessed by mia 2022-10-15 22:22:20.181418
+INFO:root:Wallet accessed by mia 2022-10-15 22:22:20.181418
+INFO:root:Wallet accessed by mia 2022-10-15 22:22:20.181418
+INFO:root:Wallet accessed by mia 2022-10-15 22:24:23.479268
+INFO:root:Wallet accessed by mia 2022-10-15 22:24:23.479268
+INFO:root:Wallet accessed by mia 2022-10-15 22:24:23.479268
+INFO:root:Wallet accessed by mia 2022-10-15 22:30:21.407914
+INFO:root:Wallet accessed by mia 2022-10-15 22:30:21.407914
+INFO:root:Wallet accessed by mia 2022-10-15 22:30:21.407914
+INFO:root:Wallet accessed by mia 2022-10-15 22:31:35.538329
+INFO:root:Wallet accessed by mia 2022-10-15 22:31:35.538329
+INFO:root:Wallet accessed by mia 2022-10-15 22:31:35.538329
+INFO:root:Wallet accessed by mia 2022-10-15 22:34:22.485068
+INFO:root:Wallet accessed by mia 2022-10-15 22:34:22.485068
+INFO:root:Wallet accessed by mia 2022-10-15 22:34:22.485068
+INFO:root:Wallet accessed by mia 2022-10-15 22:35:23.743391
+INFO:root:Wallet accessed by mia 2022-10-15 22:35:23.743391
+INFO:root:Wallet accessed by mia 2022-10-15 22:35:23.743391
+INFO:root:Wallet accessed by mia 2022-10-15 22:39:09.111561
+INFO:root:Wallet accessed by mia 2022-10-15 22:39:09.111561
+INFO:root:1111 11 2022-10-15 22:39:09.111561
+INFO:root:Wallet accessed by mia 2022-10-15 22:39:09.111561
+INFO:root:Wallet accessed by mom 2022-10-15 22:30:14.429444
+INFO:root:Wallet accessed by mom 2022-10-15 22:47:35.441466
+INFO:root:Wallet accessed by mom 2022-10-15 23:11:20.411534
+INFO:root:Wallet accessed by mia 2022-10-15 23:14:38.599660
+INFO:root:Wallet accessed by mia 2022-10-15 23:14:38.599660
+INFO:root:Wallet accessed by mom 2022-10-15 23:15:02.568350
+INFO:root:Wallet accessed by mom 2022-10-15 23:16:17.902915
+INFO:root:Wallet accessed by mom 2022-10-16 14:54:06.070433
+INFO:root:Wallet accessed by shakira 2022-10-16 14:59:43.733306
+INFO:root:Wallet accessed by shakira 2022-10-16 14:59:43.733306
+INFO:root:Wallet accessed by shakira 2022-10-16 15:00:47.902945
+INFO:root:Wallet accessed by shakira 2022-10-16 15:00:47.902945
+INFO:root:Transaction: Dollarama 10 2022-10-16 15:00:47.902945
+INFO:root:Wallet accessed by shakira 2022-10-16 15:00:47.902945
+INFO:root:Wallet accessed by shakira 2022-10-16 15:00:47.902945
+INFO:root:Transaction: dish 12 2022-10-16 15:00:47.902945
+INFO:root:Wallet accessed by shakira 2022-10-16 15:00:47.902945
+INFO:root:Wallet accessed by shakira 2022-10-16 15:02:43.898828
+INFO:root:Wallet accessed by shakira 2022-10-16 15:02:43.898828
+INFO:root:Wallet accessed by shakira 2022-10-16 15:04:43.202044
+INFO:root:Wallet accessed by shakira 2022-10-16 15:04:43.202044
+INFO:root:Wallet accessed by shakira 2022-10-16 15:07:34.879283
+INFO:root:Wallet accessed by shakira 2022-10-16 15:07:34.879283
+INFO:root:Transaction: dollar 11 2022-10-16 15:07:34.879283
+INFO:root:Wallet accessed by shakira 2022-10-16 15:07:34.879283
+INFO:root:Wallet accessed by shakira 2022-10-16 15:12:55.983100
+INFO:root:Wallet accessed by shakira 2022-10-16 15:12:55.983100
+INFO:root:Wallet accessed by shakira 2022-10-16 15:12:55.983100
+INFO:root:Transaction: 1111 1 2022-10-16 15:12:55.983100
+INFO:root:Wallet accessed by shakira 2022-10-16 15:12:55.983100
+INFO:root:Wallet accessed by shakira 2022-10-16 15:14:13.640737
+INFO:root:Wallet accessed by shakira 2022-10-16 15:14:13.640737
+INFO:root:Wallet accessed by shakira 2022-10-16 15:14:13.640737
+INFO:root:Wallet accessed by shakira 2022-10-16 15:14:13.640737
+INFO:root:Wallet accessed by shakira 2022-10-16 15:14:13.640737
+INFO:root:Wallet accessed by shakira 2022-10-16 15:14:13.640737
+INFO:root:Wallet accessed by shakira 2022-10-16 15:14:13.640737
+INFO:root:Wallet accessed by shakira 2022-10-16 15:14:13.640737
+INFO:root:Wallet accessed by shakira 2022-10-16 15:14:13.640737
+INFO:root:Wallet accessed by shakira 2022-10-16 15:14:13.640737
+INFO:root:Wallet accessed by shakira 2022-10-16 15:14:13.640737
+INFO:root:Wallet accessed by shakira 2022-10-16 15:14:13.640737
+INFO:root:Wallet accessed by shakira 2022-10-16 15:14:13.640737
+INFO:root:Wallet accessed by shakira 2022-10-16 15:14:13.640737
+INFO:root:Wallet accessed by shakira 2022-10-16 15:14:13.640737
+INFO:root:Wallet accessed by shakira 2022-10-16 15:14:13.640737
+INFO:root:Wallet accessed by shakira 2022-10-16 15:14:13.640737
+INFO:root:Wallet accessed by mia 2022-10-16 15:16:06.251472
+INFO:root:Wallet accessed by mia 2022-10-16 15:16:06.251472
+INFO:root:Transaction: lol 11 2022-10-16 15:16:06.251472
+INFO:root:Wallet accessed by mia 2022-10-16 15:16:06.251472
+INFO:root:Transaction: 11111 1 2022-10-16 15:16:06.251472
+INFO:root:Wallet accessed by mia 2022-10-16 15:16:06.251472
+INFO:root:Wallet accessed by mia 2022-10-16 15:16:06.251472
+INFO:root:Wallet accessed by mia 2022-10-16 15:16:06.251472
+INFO:root:Wallet accessed by mia 2022-10-16 15:17:20.975096
+INFO:root:Wallet accessed by mia 2022-10-16 15:17:20.975096
+INFO:root:Wallet accessed by mia 2022-10-16 15:17:20.975096
+INFO:root:Wallet accessed by mia 2022-10-16 15:18:00.510150
+INFO:root:Wallet accessed by mia 2022-10-16 15:18:00.510150
+INFO:root:Wallet accessed by mia 2022-10-16 15:18:00.510150
+INFO:root:Wallet accessed by mia 2022-10-16 15:21:03.446000
+INFO:root:Wallet accessed by mia 2022-10-16 15:21:03.446000
+INFO:root:Wallet accessed by mia 2022-10-16 15:21:03.446000
+INFO:root:Wallet accessed by ambani 2022-10-16 15:21:03.446000
+INFO:root:Wallet accessed by ambani 2022-10-16 15:21:03.446000
+INFO:root:Transaction: dollare 11 2022-10-16 15:21:03.446000
+INFO:root:Wallet accessed by ambani 2022-10-16 15:21:03.446000
+INFO:root:Wallet accessed by ambani 2022-10-16 15:21:03.446000
+INFO:root:Wallet accessed by tony 2022-10-16 15:21:03.446000
+INFO:root:Wallet accessed by tony 2022-10-16 15:21:03.446000
+INFO:root:Wallet accessed by tony 2022-10-16 15:21:03.446000
+INFO:root:Wallet accessed by mom 2022-10-16 15:24:19.188509
+INFO:root:Wallet accessed by mom 2022-10-16 15:30:57.831065
+INFO:root:Wallet accessed by tony 2022-10-16 15:31:11.396994
+INFO:root:Wallet accessed by tony 2022-10-16 15:31:11.396994
+INFO:root:Wallet accessed by tony 2022-10-16 15:31:11.396994
+INFO:root:Wallet accessed by mom 2022-10-16 15:32:27.697945
+INFO:root:Wallet accessed by mom 2022-10-16 15:34:13.874907
+INFO:root:Wallet accessed by mom 2022-10-16 15:37:04.590975
+INFO:root:Wallet accessed by mom 2022-10-16 15:38:28.824526
+INFO:root:Transaction: dollar 11 2022-10-16 15:31:11.396994
+INFO:root:Wallet accessed by tony 2022-10-16 15:31:11.396994
+INFO:root:Wallet accessed by tony 2022-10-16 15:31:11.396994
+INFO:root:Wallet accessed by tony 2022-10-16 15:31:11.396994
+INFO:root:Wallet accessed by tony 2022-10-16 15:31:11.396994
+INFO:root:Wallet accessed by tony 2022-10-16 15:31:11.396994
+INFO:root:Wallet accessed by tony 2022-10-16 15:31:11.396994
+INFO:root:Wallet accessed by tony 2022-10-16 15:31:11.396994
+INFO:root:Wallet accessed by tony 2022-10-16 15:40:38.996071
+INFO:root:Wallet accessed by tony 2022-10-16 15:40:38.996071
+INFO:root:Wallet accessed by tony 2022-10-16 15:40:38.996071
+INFO:root:Wallet accessed by mickey 2022-10-16 15:45:41.840334
+INFO:root:Wallet accessed by mickey 2022-10-16 15:45:41.840334
+INFO:root:Transaction: dollarama 11 2022-10-16 15:45:41.840334
+INFO:root:Wallet accessed by mickey 2022-10-16 15:45:41.840334
+INFO:root:Wallet accessed by mickey 2022-10-16 15:45:41.840334
+INFO:root:Wallet accessed by mom 2022-10-16 15:49:51.737654
+INFO:root:Wallet accessed by mom 2022-10-16 16:36:02.899341
+INFO:root:Wallet accessed by mom 2022-10-16 16:37:13.344386
+INFO:root:Wallet accessed by mom 2022-10-16 16:38:03.664606
+INFO:root:Wallet accessed by mom 2022-10-16 16:41:22.317510
+INFO:root:Wallet accessed by mom 2022-10-16 16:42:23.079920
+INFO:root:Wallet accessed by mom 2022-10-16 16:42:23.079920
+INFO:root:Wallet accessed by mickey 2022-10-16 18:15:38.064391
+INFO:root:Wallet accessed by mickey 2022-10-16 18:15:38.064391
+INFO:root:Wallet accessed by mickey 2022-10-16 18:18:06.757757
+INFO:root:Wallet accessed by mickey 2022-10-16 18:18:06.757757
+INFO:root:Wallet accessed by mickey 2022-10-16 18:18:06.757757
+INFO:root:Wallet accessed by mom 2022-10-16 18:15:36.071326
+INFO:root:Wallet accessed by mickey 2022-10-16 18:18:06.757757
+INFO:root:Wallet accessed by mickey 2022-10-16 18:18:06.757757
+INFO:root:Wallet accessed by mickey 2022-10-16 18:29:51.768818
+INFO:root:Wallet accessed by mickey 2022-10-16 18:29:51.768818
+INFO:root:Wallet accessed by mickey 2022-10-16 18:32:21.603673
+INFO:root:Wallet accessed by mickey 2022-10-16 18:32:21.603673
+INFO:root:Wallet accessed by mickey 2022-10-16 18:33:39.620861
+INFO:root:Wallet accessed by mickey 2022-10-16 18:33:39.620861
+INFO:root:Wallet accessed by mickey 2022-10-16 18:33:39.620861
+INFO:root:Wallet accessed by mickey 2022-10-16 18:35:24.595523
+INFO:root:Wallet accessed by mickey 2022-10-16 18:35:24.595523
+INFO:root:Wallet accessed by mickey 2022-10-16 18:35:24.595523
+INFO:root:Transaction: 111 111 2022-10-16 18:35:24.595523
+INFO:root:Wallet accessed by mickey 2022-10-16 18:35:24.595523
+INFO:root:Wallet accessed by mickey 2022-10-16 18:35:24.595523
+INFO:root:Wallet accessed by mickey 2022-10-16 18:35:24.595523
+INFO:root:Wallet accessed by mickey 2022-10-16 18:37:46.764946
+INFO:root:Wallet accessed by mickey 2022-10-16 18:37:46.764946
+INFO:root:Wallet accessed by mickey 2022-10-16 18:40:19.195290
+INFO:root:Wallet accessed by mickey 2022-10-16 18:40:19.195290
+INFO:root:Wallet accessed by mickey 2022-10-16 18:40:19.195290
+INFO:root:Wallet accessed by mickey 2022-10-16 18:40:19.195290
+INFO:root:Wallet accessed by mickey 2022-10-16 18:46:36.900697
+INFO:root:Wallet accessed by mickey 2022-10-16 18:46:36.900697
+INFO:root:Wallet accessed by mickey 2022-10-16 18:46:36.900697
+INFO:root:Wallet accessed by mickey 2022-10-16 18:50:19.427469
+INFO:root:Wallet accessed by mickey 2022-10-16 18:50:19.427469
+INFO:root:Wallet accessed by mickey 2022-10-16 18:50:19.427469
+INFO:root:Wallet accessed by mickey 2022-10-16 18:51:41.235368
+INFO:root:Wallet accessed by mickey 2022-10-16 18:51:41.235368
+INFO:root:Wallet accessed by mickey 2022-10-16 19:04:03.464405
+INFO:root:Wallet accessed by mickey 2022-10-16 19:04:03.464405
+INFO:root:Wallet accessed by mickey 2022-10-16 19:04:03.464405
+INFO:root:Wallet accessed by mom 2022-10-16 19:04:01.369868
+INFO:root:Transaction: 111 111 2022-10-16 19:04:03.464405
+INFO:root:Wallet accessed by mickey 2022-10-16 19:06:49.668014
+INFO:root:Wallet accessed by mickey 2022-10-16 19:06:49.668014
+INFO:root:Transaction: 111 111 2022-10-16 19:06:49.668014
+INFO:root:Wallet accessed by mickey 2022-10-16 19:06:49.668014
+INFO:root:Wallet accessed by mickey 2022-10-16 19:06:49.668014
+INFO:root:Wallet accessed by sofia 2022-10-16 19:11:28.244683
+INFO:root:Wallet accessed by sofia 2022-10-16 19:11:28.244683
+INFO:root:Wallet accessed by sofia 2022-10-16 19:11:28.244683
+INFO:root:Transaction: 11 11 2022-10-16 19:11:28.244683
+INFO:root:Wallet accessed by sofia 2022-10-16 19:11:28.244683
+INFO:root:Wallet accessed by sofia 2022-10-16 19:14:03.574814
+INFO:root:Wallet accessed by sofia 2022-10-16 19:14:03.574814
+INFO:root:Transaction: 111 11 2022-10-16 19:14:03.574814
+INFO:root:Wallet accessed by sofia 2022-10-16 19:14:03.574814
+INFO:root:Wallet accessed by sofia 2022-10-16 19:14:03.574814
+INFO:root:Wallet accessed by sofia 2022-10-16 19:14:03.574814
+INFO:root:Transaction: 111 11 2022-10-16 19:14:03.574814
+INFO:root:Wallet accessed by sofia 2022-10-16 19:14:03.574814
+INFO:root:Wallet accessed by sofia 2022-10-16 19:16:29.816370
+INFO:root:Wallet accessed by sofia 2022-10-16 19:16:29.816370
+INFO:root:Wallet accessed by sofia 2022-10-16 19:16:29.816370
+INFO:root:Wallet accessed by amber 2022-10-16 19:16:29.816370
+INFO:root:Wallet accessed by amber 2022-10-16 19:16:29.816370
+INFO:root:Wallet accessed by amber 2022-10-16 19:16:29.816370
+INFO:root:Transaction: 11 1 2022-10-16 19:16:29.816370
+INFO:root:Wallet accessed by amber 2022-10-16 19:16:29.816370
+INFO:root:Wallet accessed by amber 2022-10-16 19:19:54.530600
+INFO:root:Wallet accessed by amber 2022-10-16 19:19:54.530600
+INFO:root:Transaction: 11 1 2022-10-16 19:19:54.530600
+INFO:root:Wallet accessed by amber 2022-10-16 19:19:54.530600
+INFO:root:Transaction: 11 1 2022-10-16 19:19:54.530600
+INFO:root:Wallet accessed by amber 2022-10-16 19:19:54.530600
+INFO:root:Wallet accessed by amber 2022-10-16 19:20:36.788879
+INFO:root:Wallet accessed by amber 2022-10-16 19:20:36.788879
+INFO:root:Wallet accessed by amber 2022-10-16 19:20:36.788879
+INFO:root:Wallet accessed by mickey 2022-10-16 19:41:59.502655
+INFO:root:Wallet accessed by mickey 2022-10-16 19:41:59.502655
+INFO:root:Wallet accessed by mickey 2022-10-16 19:41:59.502655
+INFO:root:Wallet accessed by mom 2022-10-16 19:42:00.629188
+INFO:root:Wallet accessed by mickey 2022-10-16 19:43:36.113463
+INFO:root:Wallet accessed by mickey 2022-10-16 19:43:36.113463
+INFO:root:Wallet accessed by mickey 2022-10-16 19:47:00.065688
+INFO:root:Wallet accessed by mickey 2022-10-16 19:47:00.065688
+INFO:root:Wallet accessed by mickey 2022-10-16 19:47:00.065688
+INFO:root:Wallet accessed by mickey 2022-10-16 19:50:15.182389
+INFO:root:Wallet accessed by mickey 2022-10-16 19:50:15.182389
+INFO:root:Wallet accessed by mickey 2022-10-16 19:50:15.182389
+INFO:root:Wallet accessed by mom 2022-10-16 19:50:16.533134
+INFO:root:Transaction: 111 111 2022-10-16 19:50:15.182389
+INFO:root:Wallet accessed by mickey 2022-10-16 19:50:15.182389
+INFO:root:Wallet accessed by mickey 2022-10-16 19:52:48.252634
+INFO:root:Wallet accessed by mickey 2022-10-16 19:52:48.252634
+INFO:root:Wallet accessed by mickey 2022-10-16 19:53:44.144392
+INFO:root:Wallet accessed by mickey 2022-10-16 19:53:44.144392
+INFO:root:Wallet accessed by sofia 2022-10-16 19:54:15.038276
+INFO:root:Wallet accessed by sofia 2022-10-16 19:54:15.038276
+INFO:root:Wallet accessed by sofia 2022-10-16 19:54:15.038276
+INFO:root:Transaction: 11 11 2022-10-16 19:54:15.038276
+INFO:root:Wallet accessed by sofia 2022-10-16 19:54:15.038276
+INFO:root:Wallet accessed by sofia 2022-10-16 19:57:53.012484
+INFO:root:Wallet accessed by sofia 2022-10-16 19:57:53.012484
+INFO:root:Transaction: 11 1 2022-10-16 19:57:53.012484
+INFO:root:Wallet accessed by sofia 2022-10-16 19:57:53.012484
+INFO:root:Wallet accessed by sofia 2022-10-16 20:03:56.924378
+INFO:root:Wallet accessed by sofia 2022-10-16 20:03:56.924378
+INFO:root:Transaction: 11 1 2022-10-16 20:03:56.924378
+INFO:root:Wallet accessed by sofia 2022-10-16 20:03:56.924378
+INFO:root:Wallet accessed by mickey 2022-10-16 20:07:33.524209
+INFO:root:Wallet accessed by mickey 2022-10-16 20:07:33.524209
+INFO:root:Wallet accessed by sofia 2022-10-16 20:07:33.524209
+INFO:root:Wallet accessed by sofia 2022-10-16 20:07:33.524209
+INFO:root:Wallet accessed by sofia 2022-10-16 20:07:33.524209
+INFO:root:Transaction: 1 1 2022-10-16 20:07:33.524209
+INFO:root:Wallet accessed by sofia 2022-10-16 20:07:33.524209
+INFO:root:Wallet accessed by sofia 2022-10-16 20:09:18.480223
+INFO:root:Wallet accessed by sofia 2022-10-16 20:09:18.480223
+INFO:root:Wallet accessed by sofia 2022-10-16 20:09:18.480223
+INFO:root:Transaction: 1 1 2022-10-16 20:09:18.480223
+INFO:root:Wallet accessed by sofia 2022-10-16 20:09:18.480223
+INFO:root:Wallet accessed by sofia 2022-10-16 20:09:18.480223
+INFO:root:Wallet accessed by mom 2022-10-16 20:12:14.945229
+INFO:root:Wallet accessed by mom 2022-10-16 20:20:20.653408
+INFO:root:Wallet accessed by mom 2022-10-16 20:22:12.594769
+INFO:root:Wallet accessed by mom 2022-10-16 20:25:50.693077
+INFO:root:Wallet accessed by mom 2022-10-16 20:26:59.598262
+INFO:root:Wallet accessed by mom 2022-10-16 20:38:03.484418
+INFO:root:Wallet accessed by mom 2022-10-16 20:39:22.294584
+INFO:root:Wallet accessed by mom 2022-10-16 20:41:01.533451
+INFO:root:Wallet accessed by mom 2022-10-16 21:09:17.990373
+INFO:root:Wallet accessed by mom 2022-10-16 21:09:34.903969
+INFO:root:Wallet accessed by mom 2022-10-16 21:12:14.927516
+INFO:root:Wallet accessed by mom 2022-10-16 21:14:01.265674
+INFO:root:Wallet accessed by mom 2022-10-16 21:18:07.454590
+INFO:root:Wallet accessed by mom 2022-10-16 21:24:20.292454
+INFO:root:Wallet accessed by jake 2022-10-16 21:24:43.287019
+INFO:root:Wallet accessed by jake 2022-10-16 21:24:43.287019
+INFO:root:Wallet accessed by jake 2022-10-16 21:24:43.287019
+INFO:root:Wallet accessed by jake 2022-10-16 21:24:43.287019
+INFO:root:Wallet accessed by shakira 2022-10-16 21:24:43.287019
+INFO:root:Wallet accessed by shakira 2022-10-16 21:24:43.287019
+INFO:root:Wallet accessed by shakira 2022-10-16 21:24:43.287019
+INFO:root:Transaction: dollara 10 2022-10-16 21:24:43.287019
+INFO:root:Wallet accessed by shakira 2022-10-16 21:24:43.287019
+INFO:root:Wallet accessed by shakira 2022-10-16 21:24:43.287019
+INFO:root:Wallet accessed by shakira 2022-10-16 21:24:20.292454
+INFO:root:Wallet accessed by shakira 2022-10-16 21:24:43.287019
+INFO:root:Transaction: chicken 100 2022-10-16 21:24:43.287019
+INFO:root:Wallet accessed by shakira 2022-10-16 21:24:43.287019
+INFO:root:Wallet accessed by mom 2022-10-16 21:24:20.292454
+INFO:root:Wallet accessed by mom 2022-10-16 21:24:20.292454
+INFO:root:Wallet accessed by mom 2022-10-16 21:24:20.292454
+INFO:root:Wallet accessed by mia 2022-10-16 21:24:43.287019
+INFO:root:Wallet accessed by mia 2022-10-16 21:24:43.287019
+INFO:root:Wallet accessed by mia 2022-10-16 21:24:43.287019
+INFO:root:Transaction: lol 10 2022-10-16 21:24:43.287019
+INFO:root:Wallet accessed by mia 2022-10-16 21:24:43.287019
+INFO:root:Wallet accessed by mia 2022-10-16 21:32:54.960488
+INFO:root:Wallet accessed by mia 2022-10-16 21:32:54.960488
+INFO:root:Wallet accessed by mia 2022-10-16 21:32:54.960488
+INFO:root:Transaction: lollllooll 1 2022-10-16 21:32:54.960488
+INFO:root:Wallet accessed by mia 2022-10-16 21:32:54.960488
+INFO:root:Wallet accessed by mom 2022-10-16 21:34:15.927861
+INFO:root:Wallet accessed by mia 2022-10-16 21:32:54.960488
+INFO:root:Transaction: lollll 10 2022-10-16 21:32:54.960488
+INFO:root:Wallet accessed by mia 2022-10-16 21:32:54.960488
+INFO:root:Wallet accessed by mom 2022-10-16 21:35:29.948699
+INFO:root:Wallet accessed by mia 2022-10-16 21:35:27.580726
+INFO:root:Wallet accessed by mia 2022-10-16 21:35:27.580726
+INFO:root:Wallet accessed by mia 2022-10-16 21:35:27.580726
+INFO:root:Transaction: lol 19 2022-10-16 21:35:27.580726
+INFO:root:Wallet accessed by mia 2022-10-16 21:35:27.580726
+INFO:root:Wallet accessed by mia 2022-10-16 21:36:46.952612
+INFO:root:Wallet accessed by mia 2022-10-16 21:36:46.952612
+INFO:root:Wallet accessed by mom 2022-10-16 21:36:45.456271
+INFO:root:Wallet accessed by mia 2022-10-16 21:36:46.952612
+INFO:root:Transaction: lol 2 2022-10-16 21:36:46.952612
+INFO:root:Wallet accessed by mia 2022-10-16 21:36:46.952612
