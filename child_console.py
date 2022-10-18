@@ -1,5 +1,5 @@
 
-from backend import Family_Wallet
+from backend_v2 import Family_Wallet
 import time
 
 user = ""
@@ -21,12 +21,10 @@ def welcome():
         user = Family_Wallet.Kid('tony')
     if users == '3':
         user = Family_Wallet.Kid('mickey')
-        user.transaction_reset()
         print("This is the output it provides", user.overpay_amount[user.name])
         print("This is the whole list", user.overpay_amount)
     if users == '4':
         user = Family_Wallet.Kid('sofia')
-        user.transaction_reset()
         print("This is the output it provides", user.overpay_amount[user.name])
         print("This is the whole list", user.overpay_amount)
     if users == '5':
@@ -41,24 +39,25 @@ def welcome():
 
 def login():
     global user
-    user.transaction_reset()
     my_wallet = Family_Wallet(user.name)
-    if not my_wallet.blocked_user_flag:
-        task = input("Welcome {}! \n You daily balance is ${} \n What would you like to do? \n 1. Pay "
-                     " \n 2. Logout".format(user.name, user.overpay_amount[user.name]))
-        if task == '1':
-            user.transaction(shop_name=input("Enter the merchant name: "), amount=input("Enter the amount: $"))
-            login()
-        if task == '2':
-            print("Loading...")
-            time.sleep(1)
-            welcome()
-        if task == 'print':
-            print(user.transaction_list)
-            login()
-    else:
-        print("You have been blocked from using the wallet \n Request Dad to Unblock")
+        # if not my_wallet.blocked_user_flag:
+    task = input("Welcome {}! \n You daily balance is ${} \n What would you like to do? \n 1. Pay "
+                 " \n 2. Logout".format(user.name, user.overpay_amount[user.name]))
+    if task == '1':
+        print(user.transaction_list)
+        user.transaction(shop_name=input("Enter the merchant name: "), amount=input("Enter the amount: $"))
+        print(user.transaction_list)
+        login()
+    if task == '2':
+        print("Loading...")
+        time.sleep(1)
         welcome()
+    if task == 'print':
+        print(user.transaction_list)
+        login()
+    # else:
+    #     print("You have been blocked from using the wallet \n Request Dad to Unblock")
+
 
 while True:
     if logged_in:
