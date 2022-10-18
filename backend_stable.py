@@ -2,6 +2,7 @@ from datetime import datetime
 import logging
 import pickle
 import time
+import os
 
 # Object to log the date and time
 dateTimeObj = datetime.now()
@@ -112,6 +113,7 @@ class Family_Wallet:
         for names in self.blocked:
             if names == self.name and names != 'dad' and names != 'mom':
                 print("{} you dont have access to the wallet".format(name))
+                input("Press Enter to go back to the menu")
                 logging.info("Wallet tried to access by {} {}".format(name, dateTimeObj))
                 self.blocked_user_flag = True
 
@@ -211,6 +213,7 @@ class Family_Wallet:
 
     # Parent wallet access section where they have control over all the wallet functions
     def parent_wallet_access(self):
+        os.system('cls')
         with open('data/balance.pickle', 'rb') as handle:
             self.wallet_balance = pickle.load(handle)
         balances = self.wallet_balance
@@ -227,6 +230,7 @@ class Family_Wallet:
             self.parent_wallet_access()
         if decision == '2':
             self.withdraw(int(input("How much would you like to withdraw? $")), self.name)
+            input("Press Enter to go back to the menu")
             self.parent_wallet_access()
         if decision == '3':
             print("Transaction List \n")
@@ -254,6 +258,7 @@ class Family_Wallet:
                     self.blocked.append(block)
                     with open('data/blocked.pickle', 'wb') as handle:
                         pickle.dump(self.blocked, handle, protocol=pickle.HIGHEST_PROTOCOL)
+                    input("Press Enter to go back to the menu")
                     self.parent_wallet_access()
                 if status == '2':
                     unblock = input("Enter the name of the person to be unblocked: ")
@@ -262,6 +267,7 @@ class Family_Wallet:
                     self.blocked.remove(unblock)
                     with open('data/blocked.pickle', 'wb') as handle:
                         pickle.dump(self.blocked, handle, protocol=pickle.HIGHEST_PROTOCOL)
+                    input("Press Enter to go back to the menu")
                     self.parent_wallet_access()
             else:
                 print("\n Please enter a valid option... \n")
@@ -414,10 +420,10 @@ class Family_Wallet:
             self.permission_request_check()
             with open('data/overpay_request.pickle', 'rb') as handle:
                 self.overpay_request = pickle.load(handle)
-                print("Overpay request file", self.overpay_request)
+                #print("Overpay request file", self.overpay_request)
             with open('data/overpay_amount.pickle', 'rb') as handle:
                 self.overpay_amount = pickle.load(handle)
-                print("Overpay amount file", self.overpay_amount)
+                #print("Overpay amount file", self.overpay_amount)
             for name in self.overpay_request:
                 with open('data/overpay_request.pickle', 'rb') as handle:
                     self.overpay_request = pickle.load(handle)
@@ -536,6 +542,8 @@ class Family_Wallet:
         # This function performs a kid's transaction by requesting the shop name and amount details and appends it to
         # the transaction list.
         def transaction(self, amount, shop_name):
+            with open('data/overpay_amount.pickle', 'rb') as handle:
+                self.overpay_amount = pickle.load(handle)
             with open('data/transaction_list.pickle', 'rb') as handle:
                 self.transaction_list = pickle.load(handle)
             self.trans_flag = True
@@ -543,8 +551,7 @@ class Family_Wallet:
             with open('data/transaction_valid.pickle', 'rb') as handle:
                 self.transaction_valid = pickle.load(handle)
 
-            if int(amount) > int(self.overpay_amount[self.name]):
-                print("Your have insufficient balance!")
+            if int(amount) > int(self.overpay_amount[self.name]) and self.overpay_amount[self.name] !=0:
                 self.request_overpay(amount)
             else:
                 if self.transaction_valid[self.name]:

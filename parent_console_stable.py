@@ -9,7 +9,7 @@ williams_hemisphere = Family_Wallet.Dad()
 
 # Welcome screen for the parent console
 def welcome():
-    print("Welcome to the Family Bank Wallet! \nType the corresponding numbers for navigating the menu.")
+    print("Welcome to the Family Bank Wallet (Admin Edition)! \nType the corresponding numbers for navigating the menu.")
     users = input("\n Type your name number below for Login: \n 1. Sarah Williams (Mom)\n 2. Williams Hemisphere ("
                   "Dad). \n Your choice: ")
     return users

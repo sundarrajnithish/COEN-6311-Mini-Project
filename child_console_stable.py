@@ -1,3 +1,4 @@
+import os
 import pickle
 from backend_stable import Family_Wallet
 import time
@@ -10,6 +11,7 @@ logged_in = False
 def welcome():
     global user1
     global logged_in
+    os.system('cls')
     print("Welcome to the Family Bank Wallet (Kids Edition)! \nType the corresponding numbers for navigating the menu.")
     users = input("\n Type your name number below for Login: \n 1. Jake Williams \n 2. Tony Williams \n 3. Mickey "
                   "Williams \n 4. Sofia Williams \n 5. Mia Williams \n 6. Shakira Williams \n 7. Amber Williams \n 8. "
@@ -57,8 +59,12 @@ def login():
         task = input("Welcome {}! \n You daily balance is ${} \n What would you like to do? \n 1. Pay "
                      " \n 2. Logout".format(user1.name, bal))  # user1.overpay_amount[user1.name]
         if task == '1':
-            user1.transaction(shop_name=input("Enter the merchant name: "), amount=input("Enter the amount: $"))
-            login()
+            if bal != 0:
+                user1.transaction(shop_name=input("Enter the merchant name: "), amount=input("Enter the amount: $"))
+                login()
+            else:
+                print("You don't have sufficient balance!")
+                input("Press Enter to go back to the menu")
         if task == '2':
             print("Loading...")
             time.sleep(1)
@@ -72,6 +78,7 @@ def login():
 
 
 while True:
+    os.system('cls')
     if logged_in:
         login()
     else:
