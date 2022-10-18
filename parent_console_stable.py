@@ -1,4 +1,4 @@
-# import os
+import os
 import pickle
 import time
 from backend_stable import Family_Wallet
@@ -82,7 +82,7 @@ def dad(user_dad):
 # While loop to perform all the tasks repeatedly
 
 while 1:
-    # os.system('cls')
+    os.system('cls')
     time.sleep(1)
     user = welcome()
     if user == '1':
