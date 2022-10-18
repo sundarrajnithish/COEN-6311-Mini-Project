@@ -124,6 +124,8 @@ class Family_Wallet:
     # ----------------------------------------------------------------------------------------------------
     def deposit(self, amount, member):
         if member == "dad":
+            with open('data/dad_balance.pickle', 'rb') as handle:
+                self.dad_balance = pickle.load(handle)
             if self.dad_balance >= int(amount):
                 self.dad_balance -= int(amount)
                 with open('data/dad_balance.pickle', 'wb') as handle:
@@ -133,6 +135,8 @@ class Family_Wallet:
                 print("\n Your bank account balance is ${}".format(self.dad_balance))
             logging.info("{}'s deposit for ${} accepted {}".format(member, amount, dateTimeObj))
         if member == "mom":
+            with open('data/mom_balance.pickle', 'rb') as handle:
+                self.mom_balance = pickle.load(handle)
             if self.mom_balance >= int(amount):
                 # print("Before mom",self.mom_balance)
                 self.mom_balance -= int(amount)
