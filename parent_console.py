@@ -1,6 +1,6 @@
 #import os
 import time
-from backend import Family_Wallet
+from backend_v2 import Family_Wallet
 
 sarah_williams = Family_Wallet.Mom()
 williams_hemisphere = Family_Wallet.Dad()
