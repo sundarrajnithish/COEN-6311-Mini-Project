@@ -83,3 +83,9 @@ while True:
         login()
     else:
         welcome()
+        
+# -------------------x--------------x-----------------x------------------x---------------x----------------x-----------x-
+# End of Code
+# Author GitHub - @sundarrajnithish
+# Submitted to mini project submission for COEN 6311 - Software Engineering (Fall 2022)
+# Lecturer - Tariq Daradkeh
