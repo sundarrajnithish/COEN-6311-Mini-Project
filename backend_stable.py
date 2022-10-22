@@ -607,7 +607,7 @@ class Family_Wallet:
                 # print("Hello 2 ")
                 #print(tx[0], self.name, tx[3], dateTimeObj.date())
                 if tx[0] == self.name and tx[3] == dateTimeObj.date():
-                    temp_list = [self.name, dateTimeObj.date()]
+                    #temp_list = [self.name, dateTimeObj.date()]
                     # print(temp_list)
                     count += 1
                     #print("Count is ", count)
@@ -621,7 +621,7 @@ class Family_Wallet:
                 if self.transaction_flag[self.name] != 1:
                     # print("Transaction flag passed")
                     # Note that transaction flag 1 is an exception for making 1 transaction
-                    if count > 1:  # and self.transaction_flag[self.name] == 0:
+                    if count >= 2:  # and self.transaction_flag[self.name] == 0:
                         decision = input(
                             "You have requested payment for more than once! \n Type '1' to request permission for "
                             "wallet \n Press Enter to go back to the menu")
